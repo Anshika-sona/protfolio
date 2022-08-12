@@ -1,0 +1,27 @@
+.title-image{
+    height:75%;
+    width:75%;
+}
+.name{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+.skill{
+   
+    border-radius: 100%;
+    width:15%;
+    padding:3%;
+}
+.fav{
+    color: #4285F4;
+    margin:1rem;;
+    
+}
+.fav:hover{
+    color: #f88d13; 
+    
+}
+.block{
+    text-align:center;
+    padding: 3% 7%;
+}
